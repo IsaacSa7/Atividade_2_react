@@ -1,10 +1,10 @@
 import './App.css'
-import Cadastro from './components/Cadastro'
+import RoutesAPP from './routes'
 
 function App() {
   return (
     <>
-      <Cadastro/>
+      <RoutesAPP/>
     </>
   )
 }
